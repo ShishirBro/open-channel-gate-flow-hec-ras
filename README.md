@@ -55,7 +55,6 @@ Analytical results were compared with HEC RAS outputs. The inclusion of ineffect
 - `Pictures`: Profile plots and HEC RAS output images
 - `Excel_Calculations`: Detailed engineering computations
 - HEC RAS files: Model setups for both cases
-- `hw7.pdf`: Original problem statement
 
 ## Key Skills Demonstrated
 
