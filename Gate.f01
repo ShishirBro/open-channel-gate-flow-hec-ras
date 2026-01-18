@@ -1,0 +1,20 @@
+Flow Title=flow_065
+Program Version=6.60
+Number of Profiles= 1 
+Profile Names=PF 1
+River Rch & RM=Q2,upper           ,200     
+     2.4
+Boundary for River Rch & Prof#=Q2,upper           , 1 
+Up Type= 0 
+Dn Type= 1 
+Dn Known WS=0.65
+Gate Openings=Q2              ,upper           ,150     ,Gate #1                         ,
+     .36       1
+DSS Import StartDate=
+DSS Import StartTime=
+DSS Import EndDate=
+DSS Import EndTime=
+DSS Import GetInterval= 0 
+DSS Import Interval=
+DSS Import GetPeak= 0 
+DSS Import FillOption= 0 
